@@ -1,1 +1,3 @@
 # Document4GraduationProject
+
+这个仓库用于存储毕业设计过程中的各种文档以及文档中需要的远程图片。
